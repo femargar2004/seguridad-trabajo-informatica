@@ -77,7 +77,7 @@ El teletrabajo puede ser una opción segura y productiva para los Administradore
 
 ## 10. Referencias y Autores
 ### Referencias
-1. Unidad 2: Seguridad en el Trabajo, **Fundamentos de Hardware**, IES Rodrigo Caro.  
+1. Unidad 5.1 Seguridad en el trabajo, IES Rodrigo Caro.
 2. **OMS:** Guías de ergonomía para teletrabajadores.  
 3. **INCIBE:** Recomendaciones de ciberseguridad para el teletrabajo.  
 
@@ -85,4 +85,3 @@ El teletrabajo puede ser una opción segura y productiva para los Administradore
 - **José Luis Fernández y Félix Martín**  
   - José Luis: **Protección medioambiental.**  
   - Félix Martín: **Seguridad en el trabajo.**
-```
